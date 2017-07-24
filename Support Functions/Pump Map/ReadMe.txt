@@ -1,0 +1,1 @@
+The pump map data in this folder is for the experimental system in the Alleyne Research Group at the University of Illinois at Urbana-Champaign.  See Koeln, Williams, Pangborn, Alleyne "EXPERIMENTAL VALIDATION OF GRAPH-BASED MODELING FOR THERMAL FLUID POWER FLOW SYSTEMS" 2016, for more details.

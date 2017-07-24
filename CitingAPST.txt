@@ -1,0 +1,6 @@
+@phdthesis{williams_2017, title={A Framework for the Control of Electro-Thermal Aircraft Power Systems}, author={Williams, Matthew A.}, year={2017}}
+
+
+Williams, M. A., "A Framework for the Control of Electro-Thermal 
+Aircraft Power Systems," PhD Dissertation, University of Illinois at
+Urbana-Champaign, 2017.
